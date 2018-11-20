@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'papet-schedule';
+  title = 'Papet Schedule!';
+  content = 'coucou les zouzous';
 }
